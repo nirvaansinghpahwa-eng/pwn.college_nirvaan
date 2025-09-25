@@ -14,7 +14,7 @@ pwn.college{MzYj2F9OmbxcgTsN_ppDBsVh920.QX5QTN0wCN2MzNzEzW}
 ```
 
 ## What I learned
-How to use relative path to invoke a file.
+How to use implicit relative paths to invoke a file.
 
 ## Incorrect tangents
 None
