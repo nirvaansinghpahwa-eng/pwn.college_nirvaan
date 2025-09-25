@@ -1,5 +1,5 @@
 # Challenge 6: Implicit Relative Paths, from /
-In this challenge I had to run /challenge/run using a relative path while having a current working directory of /. 
+In this challenge I had to run /challenge/run using a relative path while having a current working directory of / 
 
 ## My solve
 **Flag:** ` pwn.college{MzYj2F9OmbxcgTsN_ppDBsVh920.QX5QTN0wCN2MzNzEzW}’
